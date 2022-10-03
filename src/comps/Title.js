@@ -5,7 +5,7 @@ const Title = () => {
     <div className="title">
       
       <h2>imgbum Pictures</h2>
-      <p>Imgbum is an Indian online image sharing community and image host founded by Dhiraj Kumar in 2021. .</p>
+      <p>Imgbum is an Indian online image sharing community and image host founded by Dhiraj Kumar in 2022. .</p>
     </div>
   )
 }
